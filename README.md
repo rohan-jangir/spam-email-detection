@@ -2,16 +2,6 @@
 
 This repository contains a Flask application that utilizes a machine learning model to classify text messages as spam or not spam. The application is designed to be simple and user-friendly, allowing users to input messages and receive immediate predictions.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Model Training](#model-training)
-- [License](#license)
-- [Contributing](#contributing)
-
 ## Technologies Used
 
 - Python
